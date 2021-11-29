@@ -1,0 +1,20 @@
+[
+  {
+    "remote": "github",
+    "repository": "ancient-devices/device_nokia_sdm660-common",
+    "target_path": "device/nokia/sdm660-common",
+    "branch": "twelve"
+  },
+  {
+    "remote": "github",
+    "repository": "ancient-devices/vendor_nokia_sdm660",
+    "target_path": "vendor/nokia",
+    "branch": "twelve"
+  },
+  {
+    "remote": "github",
+    "repository": "ancient-devices/kernel_nokia_sdm660",
+    "target_path": "kernel/nokia/sdm660",
+    "branch": "twelve"
+  }
+]
