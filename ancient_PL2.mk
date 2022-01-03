@@ -61,4 +61,4 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=Plate2_00WW \
     PRIVATE_BUILD_DESC="raven-user 12 SD1A.210817.036 7805805 release-keys"
 
-BUILD_FINGERPRINT := google/raven/raven:12/SD1A.210817.036/7805805:user/release-keys
+BUILD_FINGERPRINT := google/raven/raven:12/SQ1D.211205.017/7955197:user/release-keys
