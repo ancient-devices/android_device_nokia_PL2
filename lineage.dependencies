@@ -1,10 +1,20 @@
 [
   {
-    "repository": "android_device_nokia_sdm660-common",
-    "target_path": "device/nokia/sdm660-common"
+    "remote": "github",
+    "repository": "ancient-devices/device_nokia_sdm660-common",
+    "target_path": "device/nokia/sdm660-common",
+    "branch": "eleven"
   },
   {
-    "repository": "android_hardware_samsung_nfc",
-     "target_path": "hardware/samsung/nfc"
+    "remote": "github",
+    "repository": "ancient-devices/vendor_nokia_sdm660",
+    "target_path": "vendor/nokia",
+    "branch": "eleven"
+  },
+  {
+    "remote": "github",
+    "repository": "ancient-devices/kernel_nokia_sdm660",
+    "target_path": "kernel/nokia/sdm660",
+    "branch": "eleven"
   }
 ]
