@@ -16,5 +16,23 @@
     "repository": "ancient-devices/kernel_nokia_sdm660",
     "target_path": "kernel/nokia/sdm660",
     "branch": "twelve"
+  },
+  {
+    "remote": "github",
+    "repository": "dump-by-ak/hals_msm8998",
+    "target_path": "hardware/qcom-caf/msm8998/audio",
+    "branch": "audio"
+  },
+  {
+    "remote": "github",
+    "repository": "dump-by-ak/hals_msm8998",
+    "target_path": "hardware/qcom-caf/msm8998/display",
+    "branch": "display"
+  },
+  {
+    "remote": "github",
+    "repository": "dump-by-ak/hals_msm8998",
+    "target_path": "hardware/qcom-caf/msm8998/media",
+    "branch": "media"
   }
 ]
