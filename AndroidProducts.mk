@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/ancient_PL2.mk \
-    
+    $(LOCAL_DIR)/aosp_PL2.mk \
+
 COMMON_LUNCH_CHOICES := \
-    ancient_PL2-eng \
-    ancient_PL2-user \
-    ancient_PL2-userdebug \
+    aosp_PL2-eng \
+    aosp_PL2-user \
+    aosp_PL2-userdebug \
