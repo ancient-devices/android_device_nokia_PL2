@@ -19,20 +19,8 @@
   },
   {
     "remote": "github",
-    "repository": "dump-by-ak/hals_msm8998",
-    "target_path": "hardware/qcom-caf/msm8998/audio",
-    "branch": "audio"
-  },
-  {
-    "remote": "github",
-    "repository": "dump-by-ak/hals_msm8998",
-    "target_path": "hardware/qcom-caf/msm8998/display",
-    "branch": "display"
-  },
-  {
-    "remote": "github",
-    "repository": "dump-by-ak/hals_msm8998",
-    "target_path": "hardware/qcom-caf/msm8998/media",
-    "branch": "media"
+    "repository": "LineageOS/android_prebuilts_clang_kernel_linux-x86_clang-r416183b",
+    "target_path": "prebuilts/clang/kernel/linux-x86/clang-r416183b",
+    "branch": "lineage-20.0"
   }
 ]
