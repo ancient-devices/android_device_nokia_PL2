@@ -29,6 +29,9 @@ TARGET_BOARD_INFO_FILE := device/nokia/PL2/board-info.txt
 # Bootloader
 TARGET_BOOTLOADER_BOARD_NAME := sdm630
 
+# Display
+TARGET_SCREEN_DENSITY := 420
+
 # Kernel
 TARGET_KERNEL_CONFIG := nokia_defconfig
 
@@ -44,4 +47,4 @@ TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
 
 # SELinux
 SELINUX_IGNORE_NEVERALLOWS := true
-BOARD_SEPOLICY_DIRS += $(DEVICE_PATH)/sepolicy/vendor
+BOARD_VENDOR_SEPOLICY_DIRS += $(DEVICE_PATH)/sepolicy/vendor
